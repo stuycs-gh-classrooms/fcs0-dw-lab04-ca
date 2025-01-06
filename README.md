@@ -68,6 +68,11 @@ You can find other rule sets here: <https://en.wikipedia.org/wiki/Life-like_cell
 ; and interface elements.
 ; Use this example as your guide:
 ; http://homer.stuy.edu/~dw/netlogo/lab04_obf.html
+;
+; In order to make the model more interesting, make
+; the following changes to the default world state:
+; size: 101x101
+; patch-size: 4 pixels
 
 ;=========================================
 ; Buttons
